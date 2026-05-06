@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack - Simple Expense Tracker",
+  "description": "A clean and intuitive expense tracker to manage your daily income, spending, and wealth with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["firebase"]
+}
